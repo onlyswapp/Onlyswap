@@ -33,7 +33,7 @@ export const config = {
     // '/farms',
     // '/add',
     // '/ifo',
-    // '/remove',
+    '/remove',
     // '/prediction',
     // '/find',
     // '/limit-orders',
