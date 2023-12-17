@@ -121,7 +121,7 @@ export const INPUT_FRACTION_AFTER_FEE = ONE_HUNDRED_PERCENT.subtract(BASE_FEE)
 // BNB
 export const DEFAULT_INPUT_CURRENCY = 'ONLY'
 // CAKE
-export const DEFAULT_OUTPUT_CURRENCY = '0x566431F6C9837109aa1F657124aD6B13fbF525fe'
+export const DEFAULT_OUTPUT_CURRENCY = '0x5e7bF2742b39CE11578b9af2691f82928417585B'
 
 // Handler string is passed to Gelato to use PCS router
 export const GELATO_HANDLER = 'pancakeswap'
