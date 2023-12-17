@@ -1,2 +1,2 @@
 # OnlyLayer
-OnlyLayer on PULSE Network
+OnlyLayer on ONLY Network
