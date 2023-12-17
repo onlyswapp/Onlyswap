@@ -86,13 +86,13 @@ const Hero = () => {
             {t('ONLYLAYER TOKEN')}
           </BunnyHeading>
           <Heading scale="df" color="#fff" mb="24px" style={{ lineHeight: '25px'}}>
-            {t('Dive into the next-generation of DeFi innovation, brought to life on the PulseChain network. We proudly present "OnlyLayer", a cutting-edge token designed to fuse advanced tokenomics with unparalleled utility')}
+            {t('Dive into the next-generation of DeFi innovation, brought to life on the OnlyChain network. We proudly present "OnlyLayer", a cutting-edge token designed to fuse advanced tokenomics with unparalleled utility')}
           </Heading>
           <Heading scale="df" color="#fff" mb="24px" style={{ lineHeight: '25px'}}>
             {t("Our token presale has already passed, with the successsful launch of the OnlyLayer token. Recognizing the trust and commitment of our early supporters, 25% of the supply was allocated for the presale, granting them the unique opportunity to contribute to and benefit from OnlyLayer's liquidity foundation. But if you missed the presale, do not worry you are still very early and have the oportunity to swap your Pulse tokens for the OnlyLayer tokens, or pair and add liquidity to X-Yield pools to earn high APR’s. With plenty more features and ways to make your tokens work for you coming soon")}
           </Heading>
           <Heading scale="df" color="#fff" mb="0px" style={{ lineHeight: '25px'}}>
-            {t("Join a vibrant community at the heart of the DeFi revolution. Together, as the OnlyLayer family, we're harnessing the power of innovative tokenomics and the immense potential of the PulseChain. With your support and belief, we're not just envisioning the next era of finance; we're building it, one block at a time")}
+            {t("Join a vibrant community at the heart of the DeFi revolution. Together, as the OnlyLayer family, we're harnessing the power of innovative tokenomics and the immense potential of the OnlyChain. With your support and belief, we're not just envisioning the next era of finance; we're building it, one block at a time")}
           </Heading>
           <Flex>
           </Flex>
