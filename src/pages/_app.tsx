@@ -71,13 +71,13 @@ function MyApp(props: AppProps<{ initialReduxState: any }>) {
         />
         <meta
           name="description"
-          content="OnlyLayer is the next-generation DeFi innovation, brought to life on the PulseChain network"
+          content="Only Swap allows you to make a quick swap of the tokens on Only Layer Network"
         />
         <meta name="theme-color" content="#1FC7D4" />
         <meta name="twitter:image" content="https://photos.pinksale.finance/file/pinksale-logo-upload/1696097847754-d3b0990ef77de158e47ba54a2501a141.jpeg" />
         <meta
           name="twitter:description"
-          content="OnlyLayer is the next-generation DeFi innovation, brought to life on the PulseChain network"
+          content="Only Swap allows you to make a quick swap of the tokens on Only Layer Network"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="OnlyLayer Finance" />
@@ -124,7 +124,7 @@ type NextPageWithLayout = NextPage & {
   mp?: boolean
   /**
    * allow chain per page, empty array bypass chain block modal
-   * @default [ChainId.PULSE]
+   * @default [ChainId.ONLY]
    * */
   chains?: number[]
 }

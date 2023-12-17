@@ -2,7 +2,7 @@ import { LayoutProps, SpaceProps, BorderRadiusProps } from "styled-system";
 
 export const animation = {
   WAVES: "waves",
-  PULSE: "pulse",
+  ONLY: "pulse",
 } as const;
 
 export const variant = {

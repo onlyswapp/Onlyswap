@@ -83,7 +83,7 @@ const Waves = styled(Root)`
 
 const Skeleton: React.FC<React.PropsWithChildren<SkeletonProps>> = ({
   variant = VARIANT.RECT,
-  animation = ANIMATION.PULSE,
+  animation = ANIMATION.ONLY,
   ...props
 }) => {
   if (animation === ANIMATION.WAVES) {
@@ -95,7 +95,7 @@ const Skeleton: React.FC<React.PropsWithChildren<SkeletonProps>> = ({
 
 export const SkeletonV2: React.FC<React.PropsWithChildren<SkeletonV2Props>> = ({
   variant = VARIANT.RECT,
-  animation = ANIMATION.PULSE,
+  animation = ANIMATION.ONLY,
   isDataReady = false,
   children,
   wrapperProps,
