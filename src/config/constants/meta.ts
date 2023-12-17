@@ -5,7 +5,7 @@ import { PageMeta } from './types'
 export const DEFAULT_META: PageMeta = {
   title: 'OnlySwap',
   description:
-    "OnlyLayer is the next-generation DeFi innovation, brought to life on the PulseChain network. It's a cutting-edge token designed to blend advanced tokenomics with unparalleled utility.",
+    "Only Swap allows you to make a quick swap of the tokens on Only Layer Network.",
   image: '/images/hero.png',
 }
 

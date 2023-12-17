@@ -63,16 +63,16 @@ function MyApp({ Component, pageProps }: AppProps) {
         />
         <meta
           name="description"
-          content="Cheaper and faster than Uniswap? Discover OnlySwap, the leading DEX on PULSE Chain."
+          content="Cheaper and faster than Uniswap? Discover OnlySwap, the leading DEX on ONLYChain."
         />
         <meta name="theme-color" content="#1FC7D4" />
         <meta name="twitter:image" content="https://photos.pinksale.finance/file/pinksale-logo-upload/1696097847754-d3b0990ef77de158e47ba54a2501a141.jpeg" />
         <meta
           name="twitter:description"
-          content="The most popular AMM on PULSE!"
+          content="The most popular AMM on ONLY!"
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="OnlySwap - A next evolution DeFi exchange on PULSE Chain" />
+        <meta name="twitter:title" content="OnlySwap - A next evolution DeFi exchange on ONLYChain" />
         <title>OnlySwap</title>
       </Head>
       <NextThemeProvider>

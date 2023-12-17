@@ -19,7 +19,7 @@ export const getBscChainId = async (chainId: number) => {
     const [[bscChainId]] = await multicallv2({ abi: NoBscVaultAbi, calls, chainId })
     return bscChainId
   } catch (error) {
-    console.error('Get PULSE Chain Id Error: ', error)
+    console.error('Get ONLYChain Id Error: ', error)
     return ChainId.PULSE_CHAIN
   }
 }
