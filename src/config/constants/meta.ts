@@ -6,7 +6,7 @@ export const DEFAULT_META: PageMeta = {
   title: 'OnlySwap',
   description:
     "OnlyLayer is the next-generation DeFi innovation, brought to life on the PulseChain network. It's a cutting-edge token designed to blend advanced tokenomics with unparalleled utility.",
-  image: 'https://onlyswap.org/images/hero.png',
+  image: '/images/hero.png',
 }
 
 interface PathList {

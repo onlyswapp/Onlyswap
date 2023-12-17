@@ -253,7 +253,7 @@ function MinimalPositionCardView({
           <Text fontSize="14px" style={{ textAlign: 'center' }}>
             
             {t(
-              "Adding liquidity helps burn PLSX. 100% of the swap fees go the BuyAndBurn contract which pays a 0.1% bounty for those that run it.",
+              "Adding liquidity helps burn ONLY. 100% of the swap fees go the BuyAndBurn contract which pays a 0.1% bounty for those that run it.",
             )}
           </Text>
         </LightCard>
