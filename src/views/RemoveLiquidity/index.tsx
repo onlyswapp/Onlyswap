@@ -676,7 +676,7 @@ export default function RemoveLiquidity({ currencyA, currencyB, currencyIdA, cur
                       </Text>
                     </Flex>
                   </Flex>
-                  {/* {chainId && (oneCurrencyIsWNative || oneCurrencyIsNative) ? (
+                  {chainId && (oneCurrencyIsWNative || oneCurrencyIsNative) ? (
                     <RowBetween style={{ justifyContent: 'flex-end', fontSize: '14px' }}>
                       {oneCurrencyIsNative ? (
                         <StyledInternalLink
@@ -696,7 +696,7 @@ export default function RemoveLiquidity({ currencyA, currencyB, currencyIdA, cur
                         </StyledInternalLink>
                       ) : null}
                     </RowBetween>
-                  ) : null} */}
+                  ) : null}
                 </LightGreyCard>
               </AutoColumn>
             </>

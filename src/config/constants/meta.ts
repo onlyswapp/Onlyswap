@@ -22,7 +22,7 @@ const getPathList = (t: ContextApi['t']): PathList => {
       '/presale': { basePath: true, title: t('Presale') },
       // '/limit-orders': { basePath: true, title: t('Limit Orders') },
       // '/add': { basePath: true, title: t('Add Liquidity') },
-      // '/remove': { basePath: true, title: t('Remove Liquidity') },
+      '/remove': { basePath: true, title: t('Remove Liquidity') },
       // '/liquidity': { title: t('Liquidity') },
       // '/find': { title: t('Import Pool') },
       // '/competition': { title: t('Trading Battle') },
