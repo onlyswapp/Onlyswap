@@ -6,7 +6,7 @@ export const DEFAULT_META: PageMeta = {
   title: 'OnlySwap',
   description:
     "Only Swap allows you to make a quick swap of the tokens on Only Layer Network.",
-  image: 'https://onlyswap-hfjy.onrender.com/images/hero.png',
+  image: '/images/hero.png',
 }
 
 interface PathList {
