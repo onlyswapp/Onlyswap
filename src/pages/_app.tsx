@@ -74,7 +74,7 @@ function MyApp(props: AppProps<{ initialReduxState: any }>) {
           content="Only Swap allows you to make a quick swap of the tokens on Only Layer Network"
         />
         <meta name="theme-color" content="#1FC7D4" />
-        <meta name="twitter:image" content="https://onlyswap-hfjy.onrender.com/images/hero.png" />
+        <meta name="twitter:image" content="https://onlyswap.org/images/hero.png" />
         <meta
           name="twitter:description"
           content="Only Swap allows you to make a quick swap of the tokens on Only Layer Network"
